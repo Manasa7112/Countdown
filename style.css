@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(209, 233, 243);
+    background-color: rgb(208, 233, 243);
 }
 .number{
     position:absolute;
@@ -20,7 +20,7 @@ body{
     text-align: center;
     background: radial-gradient(rgb(252, 255, 255),rgb(240, 240, 240));
     box-shadow: 0 5px 10px rgba(33, 85, 105, 0.4);  
-    border-radius: 250px;
+    border-radius: 255px;
     box-shadow: inset 5px 5px 12px #ffffff,
                       5px 5px 12px rgba(0,0,0,.16);
 }
